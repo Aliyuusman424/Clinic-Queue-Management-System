@@ -6,3 +6,11 @@ The system is built using Object-Oriented Programming (OOP) principles. A Patien
 A list data structure is used to simulate a queue, ensuring that the first patient added is the first to be served. Additionally, Python’s built-in datetime module is used to record timestamps.
 
 The user interface is developed using Flask and HTML, allowing users to interact with the system through a web browser.
+
+HOW TO RUN THE PROJECT
+
+Install Flask: pip install flask
+
+Run the application: python app.py
+
+Open your browser and go to: http://127.0.0.1:5000/
