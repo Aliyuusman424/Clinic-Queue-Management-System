@@ -1,11 +1,11 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #c0c6ce;
+    background-color: #c6cace; /* this controls the entire baground color of all pages */
     text-align: center;
 }
 
 h1 {
-    color: #2b4450;
+    color: #2b4450; /*only h1 color is affected here*/
 }
 
 a {
